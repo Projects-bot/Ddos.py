@@ -1,6 +1,6 @@
 # UJICOBA WEBSITE SERANGAN (Script DDoS Simulasi)
 
-> **DISCLAIMER:** Script ini hanya untuk *pengujian pribadi* terhadap server milik sendiri. Jangan digunakan untuk menyerang sistem yang bukan milikmu tanpa izin, karena itu **melanggar hukum**.
+> **DISCLAIMER:** Script ini hanya untuk *pengujian pribadi* terhadap server milik sendiri. Jangan digunakan untuk menyerang sistem yang bukan milikmu tanpa izin, karena itu **melanggar hukum**. Saya tidak bertanggung jawab apa yg terjadi atas kelakuan ada terhadap skrip ini resiko ditanggung oleh penguna sendiri.
 
 ---
 
